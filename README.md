@@ -11,4 +11,4 @@ Learning objectives for lession:
 
 - easy to share projects and collaborate on projects
 - version control
--have backups of projects and data
+- have backups of projects and data
